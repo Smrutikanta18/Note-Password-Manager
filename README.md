@@ -1,2 +1,3 @@
 # Note-Password-Manager
-Its my college project
+Its my college project.
+Author-Smrutikanta Parida
