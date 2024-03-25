@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801867818889",
+    "project_id": "note-and-password-app",
+    "storage_bucket": "note-and-password-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801867818889:android:6bd1c7e68903ac102b2358",
+        "android_client_info": {
+          "package_name": "com.example.noteandpasswordmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU1EiD38ii7qfiiypFmJ1josTTGUBHmr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
